@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdmobBannerAdinActivity</string>
+    <string name="test_banner_ad_id">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="sample_AdMob_app_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="TestDeviceHashedId">A2CD6D76426F8083DB8730CC1CA5A64D</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="ad_inspector" translatable="false">Ad Inspector</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="more_menu" translatable="false">More</string>
+    <string name="privacy_settings" translatable="false">Privacy Settings</string>
+</resources>
